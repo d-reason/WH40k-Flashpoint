@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="Flashpoint" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Warhammer_40k_Flashpoint_v0.1.gstz" dataType="gamesystem" dataId="1ee3-09ab-d6ac-4f08" dataName="Warhammer 40k: Flashpoint v0.1" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Heretic_Astartes.catz" dataType="catalogue" dataId="2533-280b-19ea-7a76" dataName="Heretic Astartes" dataBattleScribeVersion="2.03" dataRevision="2"/>
+  </dataIndexEntries>
+</dataIndex>
